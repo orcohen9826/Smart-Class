@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665954066792",
+    "firebase_url": "https://afekatonproject-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "afekatonproject",
+    "storage_bucket": "afekatonproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665954066792:android:2127948e13f5a0179b36dd",
+        "android_client_info": {
+          "package_name": "com.example.afekaton_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665954066792-pngcfh7pege554td6t816uff9759vrbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPze5PnMXXSKknxyQh-NqlYzROi8yM5xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665954066792-pngcfh7pege554td6t816uff9759vrbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
