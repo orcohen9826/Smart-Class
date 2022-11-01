@@ -1,7 +1,6 @@
 # afekaton_project
 Unfinished - made on a college composition of 36 hours 
-# Features: 
-![image](https://user-images.githubusercontent.com/59200103/199223566-1c5d1afc-7aef-43cf-a969-8e0719ef0f53.png)
+
 
 
 A new Flutter project.
@@ -18,3 +17,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# Features: 
+![image](https://user-images.githubusercontent.com/59200103/199223566-1c5d1afc-7aef-43cf-a969-8e0719ef0f53.png)
