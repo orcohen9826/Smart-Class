@@ -1,4 +1,8 @@
 # afekaton_project
+Unfinished - made on a college composition of 36 hours 
+# Features: 
+![image](https://user-images.githubusercontent.com/59200103/199223566-1c5d1afc-7aef-43cf-a969-8e0719ef0f53.png)
+
 
 A new Flutter project.
 
