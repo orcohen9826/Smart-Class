@@ -1,5 +1,5 @@
 # afekaton_project
-Unfinished - made on a college composition of 36 hours 
+unfinished - made on a one-day college composition 
 
 
 
